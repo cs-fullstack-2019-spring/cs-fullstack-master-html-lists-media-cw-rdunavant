@@ -1,0 +1,31 @@
+section,
+.offset,
+.offset code{
+    height: 96px;
+    position: absolute;
+
+}
+right: 0;
+top: 0;
+
+code {
+    background: white;
+    border-radius: 6px;
+    color: black;
+    display: block;
+    font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+    padding: 24px 15px;
+    text-align: center;
+}
+header,
+section,
+aside,
+footer {
+    clear: left;
+}
+footer {
+    margin-bottom: 0;
+}
+{
+    border: 1px solid blue;
+}
