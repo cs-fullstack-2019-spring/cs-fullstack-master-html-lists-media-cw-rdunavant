@@ -1,3 +1,6 @@
+### 0 POINTS
+### KEY: Outputs do not match requested output, and structure of HTML invalid. Review HTML lists. https://learn.shayhowe.com/html-css/creating-lists/
+
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
